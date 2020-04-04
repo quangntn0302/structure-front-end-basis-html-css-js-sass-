@@ -10,6 +10,7 @@
 // Reset and base files
 // --------------------
 @import 'bases/base';
+@import 'bases/reset';
 
 // Layouts
 // -------
@@ -26,3 +27,7 @@
 // Utilities
 // ----------
 @import 'utilities/utility';
+
+// Typography
+// ----------
+@import 'typography/medium';
